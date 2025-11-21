@@ -1,3 +1,4 @@
+5a9defd Complete Task 2.1.
 edc92ce Commit log.txt for Task 1.2.
 7534cc0 Revert "Commit log.txt."
 32ad62c Commit log.txt.
