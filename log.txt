@@ -1,3 +1,5 @@
+5a00492 Complete Task 2.4.
+fc8a8ed Commit log.txt after Task 2.3.
 f311915 Complete Task 2.3.
 f101d49 Commit log.txt after Task 2.2.
 65c00a6 Complete Task 2.2.
